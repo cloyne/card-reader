@@ -1,1 +1,1 @@
-README. Wow.
+README.
