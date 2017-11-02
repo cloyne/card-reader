@@ -1,5 +1,7 @@
 Cloyne Card Reader
 
+![](https://raw.githubusercontent.com/cloyne/card-reader/2ec182e2cbadf19627a07463ca8bdf002e277375/media/frontdoor_open.gif)
+
 This card reader is installed at the front door of Cloyne Court Co-op. It is built off of Mike Zhong's Physics 111a final project. It scans Berkeley students' Cal1ID cards by RFID interaction, checks whether the ID is stored in the SD card adapter, and if so, triggers the door to open automatically. 
 
 Included:
